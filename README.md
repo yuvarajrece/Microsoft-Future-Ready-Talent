@@ -1,9 +1,12 @@
-'Level-Up Lifestyle
+# Level-Up Lifestyle #
 
-Project Link : https://jolly-sand-0b9be0e10.1.azurestaticapps.net
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Project Link : https://jolly-sand-0b9be0e10.1.azurestaticapps.net
 
-Web Technologies used : HTML, CSS, JS, Bootstrap
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Web Technologies used : HTML, CSS, JS, Bootstrap
 
 IDE : VS-Code
 
