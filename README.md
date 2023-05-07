@@ -1,21 +1,22 @@
-# Microsoft-Future-Ready-Talent
+"Level-Up Lifestyle" 
 
-This is a E-commerce Front End website design
+Project Link : https://jolly-sand-0b9be0e10.1.azurestaticapps.net
 
-Web Technologies used: HTML, CSS, JavaScript
 
-IDE: VS-Code
+Web Technologies used : HTML, CSS, JS, Bootstrap
+
+IDE : VS-Code
 
 Industry : Lifestyle
 
-Project Title : E-Commerce Site
+Project Title : Level-Up Lifestyle
 
-Problem Statement/Opportunity :E-commerce provides an easy way to sell products to a large customer base. However, there is a lot of competition among multiple e-commerce sites. When users land on an e-commerce site, they expect to find what they are looking for quickly and easily. Also, users are not sure about the brands or the actual products they want to purchase. They have a very broad idea about what they want to buy. Many customers nowadays search for their products on Google rather than visiting specific e-commerce sites. They believe that Google will take them to the e-commerce sites that have their product.
+Problem Statement/Opportunity :
 
-The purpose of any e-commerce website is to help customers narrow down their broad ideas and enable them to finalize the products
+A small business wants to build a smart and elegantly designed website as the online shopping industry has been growing at an incredible rate in today's world. To build a whole website they have chosen Azure Cloud Platform. Build a website that have awesome features like banner text slider, eye-catching hover effects, smooth scrolling navigation, gallery light box effect, and much more to serve their customers.
 
-Project Description : The primary goal of an e-commerce site is to sell goods and services online. This project deals with developing an e-commerce website for Online laptop Accessories Sale. It provides the user with a catalog of different laptop Accessories available for purchase in the store. They have the option to see each and every Details about the project.If the have any Problem customer support Facility is Also Available.
+Project Description :
 
-Primary Azure Technology : Azure Bot Service, Web, Static Web Apps
+I have created an online store named " Level-up Lifestyle " using boot strap framework, HTML, CSS, and Javascript. It helps people to choose and explore trendy outfits according to their daily style needs. This smart and elegantly designed website has awesome features like banner text slider, eye-catching hover effects, smooth scrolling navigation, gallery light box effect, and much more. This website is a 100% responsive cross-browser template, compatible on all devices, and displayed on all screen sizes. This project is created both for sellers and customers as it has an attractive design to draw customers' attention and helps the seller to showcase their best products. This way a customer can get any product at his/her doorstep without actually stepping out of the home. I am using Microsoft Azure with Github to deploy the website and finish this project.
 
-Other Azure Technologies : App Service
+Primary Azure Technology : Static Web Apps, Web Apps
