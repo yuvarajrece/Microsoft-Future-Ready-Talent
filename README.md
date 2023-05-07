@@ -1,4 +1,4 @@
-"Level-Up Lifestyle" 
+'Level-Up Lifestyle
 
 Project Link : https://jolly-sand-0b9be0e10.1.azurestaticapps.net
 
